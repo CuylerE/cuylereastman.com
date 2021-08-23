@@ -1,0 +1,7 @@
+{
+  "name": "Cuylereastman.com",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
